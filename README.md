@@ -1,4 +1,4 @@
-# Operating_System_Algorithms
+# Operating System Algorithms
 Some operating system program scheduling algorithms implemented by me
 * Cycle Detection
 * Memmory Allocation
