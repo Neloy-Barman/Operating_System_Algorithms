@@ -1,4 +1,4 @@
-# Round Robin algorithm code explanation: 
+# "Round Robin" algorithm steps: 
 * At first, I created a list ‘Process’ with all the processes with its properties. 
 * Then take input for the time quantum ‘quan’.
 * Then I entered the arrival times in an integer list ‘SoArTi’ & sorted it.
