@@ -1,0 +1,15 @@
+F:\OS\RR\bin\Debug\net7.0\RR.exe
+F:\OS\RR\bin\Debug\net7.0\RR.deps.json
+F:\OS\RR\bin\Debug\net7.0\RR.runtimeconfig.json
+F:\OS\RR\bin\Debug\net7.0\RR.dll
+F:\OS\RR\bin\Debug\net7.0\RR.pdb
+F:\OS\RR\obj\Debug\net7.0\RR.csproj.AssemblyReference.cache
+F:\OS\RR\obj\Debug\net7.0\RR.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\RR\obj\Debug\net7.0\RR.AssemblyInfoInputs.cache
+F:\OS\RR\obj\Debug\net7.0\RR.AssemblyInfo.cs
+F:\OS\RR\obj\Debug\net7.0\RR.csproj.CoreCompileInputs.cache
+F:\OS\RR\obj\Debug\net7.0\RR.dll
+F:\OS\RR\obj\Debug\net7.0\refint\RR.dll
+F:\OS\RR\obj\Debug\net7.0\RR.pdb
+F:\OS\RR\obj\Debug\net7.0\RR.genruntimeconfig.cache
+F:\OS\RR\obj\Debug\net7.0\ref\RR.dll
