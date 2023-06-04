@@ -1,4 +1,4 @@
-# Shortest Remaining Time First steps:
+# "Shortest Remaining Time First" steps:
 * At first, I created a list ‘Process’ with all the processes with its properties. 
 * Then I entered the arrival times in an integer list ‘SoArTi’ & sorted it.
 * Then I took another list ‘Process2’ to enter the processes in a sorted order according to arrival times list.  
