@@ -1,0 +1,15 @@
+F:\OS\SRTN\bin\Debug\net7.0\SRTN.exe
+F:\OS\SRTN\bin\Debug\net7.0\SRTN.deps.json
+F:\OS\SRTN\bin\Debug\net7.0\SRTN.runtimeconfig.json
+F:\OS\SRTN\bin\Debug\net7.0\SRTN.dll
+F:\OS\SRTN\bin\Debug\net7.0\SRTN.pdb
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.csproj.AssemblyReference.cache
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.AssemblyInfoInputs.cache
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.AssemblyInfo.cs
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.csproj.CoreCompileInputs.cache
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.dll
+F:\OS\SRTN\obj\Debug\net7.0\refint\SRTN.dll
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.pdb
+F:\OS\SRTN\obj\Debug\net7.0\SRTN.genruntimeconfig.cache
+F:\OS\SRTN\obj\Debug\net7.0\ref\SRTN.dll
