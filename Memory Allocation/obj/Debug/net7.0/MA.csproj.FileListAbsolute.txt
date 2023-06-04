@@ -1,0 +1,15 @@
+F:\OS\MA\bin\Debug\net7.0\MA.exe
+F:\OS\MA\bin\Debug\net7.0\MA.deps.json
+F:\OS\MA\bin\Debug\net7.0\MA.runtimeconfig.json
+F:\OS\MA\bin\Debug\net7.0\MA.dll
+F:\OS\MA\bin\Debug\net7.0\MA.pdb
+F:\OS\MA\obj\Debug\net7.0\MA.csproj.AssemblyReference.cache
+F:\OS\MA\obj\Debug\net7.0\MA.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\MA\obj\Debug\net7.0\MA.AssemblyInfoInputs.cache
+F:\OS\MA\obj\Debug\net7.0\MA.AssemblyInfo.cs
+F:\OS\MA\obj\Debug\net7.0\MA.csproj.CoreCompileInputs.cache
+F:\OS\MA\obj\Debug\net7.0\MA.dll
+F:\OS\MA\obj\Debug\net7.0\refint\MA.dll
+F:\OS\MA\obj\Debug\net7.0\MA.pdb
+F:\OS\MA\obj\Debug\net7.0\MA.genruntimeconfig.cache
+F:\OS\MA\obj\Debug\net7.0\ref\MA.dll
