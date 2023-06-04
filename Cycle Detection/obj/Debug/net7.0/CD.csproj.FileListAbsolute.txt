@@ -1,0 +1,15 @@
+F:\OS\CD\bin\Debug\net7.0\CD.exe
+F:\OS\CD\bin\Debug\net7.0\CD.deps.json
+F:\OS\CD\bin\Debug\net7.0\CD.runtimeconfig.json
+F:\OS\CD\bin\Debug\net7.0\CD.dll
+F:\OS\CD\bin\Debug\net7.0\CD.pdb
+F:\OS\CD\obj\Debug\net7.0\CD.csproj.AssemblyReference.cache
+F:\OS\CD\obj\Debug\net7.0\CD.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\CD\obj\Debug\net7.0\CD.AssemblyInfoInputs.cache
+F:\OS\CD\obj\Debug\net7.0\CD.AssemblyInfo.cs
+F:\OS\CD\obj\Debug\net7.0\CD.csproj.CoreCompileInputs.cache
+F:\OS\CD\obj\Debug\net7.0\CD.dll
+F:\OS\CD\obj\Debug\net7.0\refint\CD.dll
+F:\OS\CD\obj\Debug\net7.0\CD.pdb
+F:\OS\CD\obj\Debug\net7.0\CD.genruntimeconfig.cache
+F:\OS\CD\obj\Debug\net7.0\ref\CD.dll
